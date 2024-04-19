@@ -1,0 +1,16 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/kevenmario/go/src/github.com/Brisanet/brisa-confirmacao-de-rota
+- /home/kevenmario/go/src/github.com/KevenMarioN/backend_master_class
+startuppopupversion: 5
+lastversion: 0.41.0
+customcommandshistory:
+- q
+- ""
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: when-maximised
